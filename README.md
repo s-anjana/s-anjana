@@ -1,1 +1,1 @@
-"# s-anjana is moved to github.com/sanjana" 
+"# s-anjana is moved to https://github.com/sanjana" 
